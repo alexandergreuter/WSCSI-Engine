@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="importantfiles" pattern="file[BBB-Game]:src/*||file[BBB-Game]:src/ch/bbbaden/games/*||file[BBB-Game]:src/ch/bbbaden/games/AStar/*||file[BBB-Game]:src//*" />
+</component>
