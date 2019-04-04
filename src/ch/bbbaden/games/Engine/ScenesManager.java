@@ -1,6 +1,6 @@
 package ch.bbbaden.games.Engine;
 
-import ch.bbbaden.games.Scenes.StartScene.StartScene;
+import ch.bbbaden.games.Scenes.StartScene;
 
 public class ScenesManager {
 
@@ -10,9 +10,8 @@ public class ScenesManager {
         currentScene = new StartScene();
     }
 
-    public Scene getCurrentScene() {
-
-        return currentScene;
+    public void update() {
+        currentScene.update();
     }
 
     public void setCurrentScene(Scene currentScene) {
