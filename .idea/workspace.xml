@@ -2,68 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="777d99fb-6e66-4cfb-9c9f-eaa6ba4ba3f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/original_game/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original_game/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original_game/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original_game/.idea/original_game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original_game/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original_game/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/original_game/BBB-Game/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Prefab/Components/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Prefab/Components/ActionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Prefab/Components/ActionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Prefab/Components/Collider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Prefab/Components/CollisionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Prefab/Components/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Prefab/Components/Renderer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Prefab/Default/DefaultActionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Prefab/Default/DefaultCollisionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Prefab/Default/DefaultRenderer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/Engine/GameLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/Engine/GameLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/Engine/GameObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/Engine/GameObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/Engine/Prefab/Pathfinder/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/Engine/Prefab/Pathfinder/PathFinder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/Engine/Scene.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/Engine/Scene.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/Engine/ScenesManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/Engine/ScenesManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/GameObjects/Direction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/GameObjects/Medikit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/GameObjects/Player$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/GameObjects/Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/GameObjects/Starter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/GameObjects/Trap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/GameObjects/Zombie$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/GameObjects/Zombie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/Scenes/EndScene/EndScene.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/Scenes/Scene1/Scene1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/Scenes/Scene2/Scene2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BBB-Game/ch/bbbaden/games/Scenes/StartScene/StartScene.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/DynamicGameObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/EventComponentsHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/GameLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/GameLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/GameObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Scene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Scene.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/ScenesManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/ScenesManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Starter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/StaticGameObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/Components/EventComponents/ActionComponent/Action.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/Components/EventComponents/ActionComponent/ActionListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/Components/EventComponents/Collider/Collider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/Components/UpdateComponents/DirectionComponent/DirectionComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/Components/UpdateComponents/IconComponent/IconComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/Components/UpdateComponents/MoveComponent/Direction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/Components/UpdateComponents/MoveComponent/MoveComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/Components/UpdateComponents/RenderComponent/RenderComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/Components/UpdateComponents/UpdateComponent.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/DynamicGameObjects/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/DynamicGameObjects/Camera.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/DynamicGameObjects/Medikit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/DynamicGameObjects/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/DynamicGameObjects/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/DynamicGameObjects/Trap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/DynamicGameObjects/Trap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/DynamicGameObjects/Zombie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/Scenes/EndScene/EndScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/Scenes/EndScene.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/Scenes/Scene1/Scene1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/Scenes/Scene1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/Scenes/Scene2/Scene2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch/bbbaden/games/Scenes/StartScene/StartScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch/bbbaden/games/Scenes/StartScene.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,20 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Engine/ScenesManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#272#273#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Scenes/StartScene.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,12 +26,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Scene.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
+            <state relative-caret-position="506">
               <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#754#755#0" expanded="true" />
-                <element signature="e#785#786#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/DynamicGameObjects/Camera.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="460">
+              <caret line="30" column="73" selection-start-line="30" selection-start-column="73" selection-end-line="30" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,10 +47,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Engine/GameLoop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="322">
               <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#409#410#0" expanded="true" />
@@ -136,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Scenes/Scene1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="115">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -148,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Engine/GameObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="39" column="34" lean-forward="true" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+            <state relative-caret-position="1426">
+              <caret line="76" column="20" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
               <folding>
                 <element signature="e#958#959#0" expanded="true" />
                 <element signature="e#988#989#0" expanded="true" />
@@ -188,11 +112,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Starter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="207">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding>
                 <element signature="e#179#180#0" expanded="true" />
                 <element signature="e#214#215#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Prefab/Default/DefaultRenderer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="10" selection-start-line="10" selection-end-line="16" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -268,10 +204,10 @@
         <option value="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/GameObject.java" />
         <option value="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Prefab/Components/Action.java" />
         <option value="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Prefab/Default/DefaultActionHandler.java" />
-        <option value="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/DynamicGameObjects/Camera.java" />
         <option value="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/ScenesManager.java" />
         <option value="$PROJECT_DIR$/src/ch/bbbaden/games/Scenes/StartScene.java" />
         <option value="$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Scene.java" />
+        <option value="$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/DynamicGameObjects/Camera.java" />
       </list>
     </option>
   </component>
@@ -280,8 +216,9 @@
       <scope name="importantfiles" />
     </order>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="499" />
+    <option name="y" value="458" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -295,57 +232,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'importantfiles'; set:file[BBB-Game]:src/*||file[BBB-Game]:src/ch/bbbaden/games/*||file[BBB-Game]:src/ch/bbbaden/games/AStar/*||file[BBB-Game]:src//*; class com.intellij.psi.search.scope.packageSet.NamedScope">
-          <expand>
-            <path>
-              <item name="BBB-Game" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="BBB-Game" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="BBB-Game" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="BBB-Game" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope">
-          <expand>
-            <path>
-              <item name="BBB-Game" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="BBB-Game" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="BBB-Game" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="BBB-Game" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="BBB-Game" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="BBB-Game" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="ch" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="BBB-Game" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="BBB-Game" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="ch" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="bbbaden" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="BBB-Game" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="BBB-Game" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="ch" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="bbbaden" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="games" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -439,12 +325,63 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'importantfiles'; set:file[BBB-Game]:src/*||file[BBB-Game]:src/ch/bbbaden/games/*||file[BBB-Game]:src/ch/bbbaden/games/AStar/*||file[BBB-Game]:src//*; class com.intellij.psi.search.scope.packageSet.NamedScope">
+          <expand>
+            <path>
+              <item name="BBB-Game" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="BBB-Game" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="BBB-Game" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="BBB-Game" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope">
+          <expand>
+            <path>
+              <item name="BBB-Game" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="BBB-Game" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="BBB-Game" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="BBB-Game" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="BBB-Game" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="BBB-Game" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ch" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="BBB-Game" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="BBB-Game" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ch" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bbbaden" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="BBB-Game" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="BBB-Game" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ch" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bbbaden" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="games" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554296187945" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554375542626" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -549,21 +486,35 @@
       <workItem from="1554199173385" duration="14443000" />
       <workItem from="1554276980702" duration="16855000" />
       <workItem from="1554298820515" duration="1920000" />
+      <workItem from="1554364982682" duration="129000" />
+      <workItem from="1554375302003" duration="312000" />
+      <workItem from="1554380744627" duration="93000" />
+      <workItem from="1554380994740" duration="54000" />
+      <workItem from="1554383670003" duration="24000" />
     </task>
+    <task id="LOCAL-00001" summary="Major changes base function implemented now adding a game to test it">
+      <created>1554365102082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554365102082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123429000" />
+    <option name="totallyTimeSpent" value="124041000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.49164927" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.14583333" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -572,12 +523,12 @@
       <window_info anchor="bottom" id="Find" order="4" weight="0.32861805" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50104165" side_tool="true" weight="0.31120783" />
       <window_info anchor="bottom" id="Database Changes" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49895832" weight="0.31120783" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49895832" weight="0.2633297" />
       <window_info anchor="bottom" id="Debug" order="8" sideWeight="0.49947917" weight="0.42747253" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32861805" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32857144" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.3297062" />
       <window_info anchor="bottom" id="REST Client" order="14" weight="0.33660132" />
       <window_info anchor="right" id="Palette" order="0" />
@@ -593,6 +544,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Major changes base function implemented now adding a game to test it" />
+    <option name="LAST_COMMIT_MESSAGE" value="Major changes base function implemented now adding a game to test it" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -695,16 +650,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Prefab/Default/DefaultRenderer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" selection-start-line="10" selection-end-line="16" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Prefab/Components/Action.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -753,35 +698,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Scenes/Scene1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Scenes/EndScene.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Starter.java">
+    <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Engine/ScenesManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Scenes/StartScene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Scene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/DynamicGameObjects/Camera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="30" column="73" selection-start-line="30" selection-start-column="73" selection-end-line="30" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Engine/GameLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Engine/GameObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="39" column="34" lean-forward="true" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+        <state relative-caret-position="1426">
+          <caret line="76" column="20" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
           <folding>
             <element signature="e#958#959#0" expanded="true" />
             <element signature="e#988#989#0" expanded="true" />
@@ -805,55 +775,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/GameObjects/DynamicGameObjects/Camera.java">
+    <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Scenes/EndScene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Prefab/Default/DefaultRenderer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <caret line="10" selection-start-line="10" selection-end-line="16" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Engine/Scene.java">
+    <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Scenes/Scene1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Scenes/StartScene.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Engine/ScenesManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ch/bbbaden/games/Engine/GameLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

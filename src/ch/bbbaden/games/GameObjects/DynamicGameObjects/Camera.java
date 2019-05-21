@@ -29,7 +29,7 @@ public class Camera extends GameObject implements Renderer, ActionListener {
         csi.cls();
         for (GameObject gameObject : scene.getGameObjects()) {
             if (gameObject.getX() + xOffset >= 0 && gameObject.getX() + xOffset <= WSwingConsoleInterface.getXdim() && gameObject.getY() + yOffset >= 0 && gameObject.getX() + xOffset <= WSwingConsoleInterface.getYdim()) {
-                csi.print(gameObject.getX() + xOffset, gameObject.getY() + yOffset, gameObject.getIcon());
+                csi.print((gameObject.getX() + xOffset), (gameObject.getY() + yOffset), gameObject.getIcon());
             }
         }
         csi.refresh();
